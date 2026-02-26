@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 🤖 SYNC Internship — Machine Learning Projects
 ### 4 Projects · 3 Domains · NLP · Computer Vision · Regression
 
